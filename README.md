@@ -9,7 +9,7 @@ yarn add -D eslint babel-eslint eslint-config-airbnb eslint-plugin-jsx-a11y esli
 
 2. Install this package
 ```
-yarn add -D @envisioning/eslint-config-envisioning
+yarn add -D @envisioning/eslint-config
 ```
 
 3. Add config into your .eslintrc file
